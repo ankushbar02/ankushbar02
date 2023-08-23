@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankush</h1>
 <h3 align="center">Software Engineer from India</h3>
-# Hi there, I'm [Your Name] 👋
+
 
 
 
